@@ -106,6 +106,7 @@ set( XROOTD_PUBLIC_HEADERS
   XrdSys/XrdSysXSLock.hh
   XrdXml/XrdXmlReader.hh
   XrdXrootd/XrdXrootdMonData.hh
+  XrdXrootd/XrdXrootdGStream.hh
   XrdXrootd/XrdXrootdBridge.hh
   XrdHttp/XrdHttpSecXtractor.hh
 )
