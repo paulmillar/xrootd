@@ -6,6 +6,7 @@ Prerelease Notes
 ================
 
 + **New Features**
+  * **[Server]** Implement simple g-stream monitoring for medium level repotring.
   * **[SSI]** Export request scaling interface.
   * **[SSI]** Add generic Control() method for future use.
   * **[SSI]** Simplify GetResponseData() to return void not enum (breaks ABI).
