@@ -6,6 +6,7 @@ Prerelease Notes
 ================
 
 + **New Features**
+  * **[Server]** Add Features(), getFile(), and putFile() methods to SFS.
   * **[Server]** Implement simple g-stream monitoring for medium level repotring.
   * **[SSI]** Export request scaling interface.
   * **[SSI]** Add generic Control() method for future use.
@@ -18,4 +19,5 @@ Prerelease Notes
 + **Minor bug fixes**
 
 + **Miscellaneous**
+  * **[Server]** Improve SFS wrapping and add "how to" documentation.
 
