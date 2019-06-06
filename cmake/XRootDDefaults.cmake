@@ -9,7 +9,7 @@ if( "${CMAKE_BUILD_TYPE}" STREQUAL "" )
   endif()
 endif()
 
-define_default( PLUGIN_VERSION    4 )
+define_default( PLUGIN_VERSION    5 )
 define_default( ENABLE_FUSE       TRUE )
 define_default( ENABLE_CRYPTO     TRUE )
 define_default( ENABLE_KRB5       TRUE )
